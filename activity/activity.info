@@ -1,0 +1,9 @@
+[Activity]
+name=StarChart
+service_name = org.laptop.StarChart
+class = StarChart.StarChart
+icon = StarChart
+activity_version = 5
+host_version = 1
+show_launcher = yes
+license=GPLv2+

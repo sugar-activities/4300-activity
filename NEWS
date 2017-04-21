@@ -1,0 +1,25 @@
+054
+Beta 5 release 2008/09/24
+Fixed color scheme bug.
+Added license metadata.
+Added activity name in Spanish.
+040
+Beta 4 release 2008/07/15
+Plotting of large, bright Messier catalog objects.
+Code reorganization: StarChart.py = algorithms;
+stars1.py, dso1.py and constellations.py = catalogs.
+Optional observatory.py = set default latitude & longitude.
+Optional travel.py = override default location and XO's timezone.
+033
+Beta 3 release 2008/03/21
+Labels are now provided for the cardinal directions.
+Error checking (and reporting) for coordinates and time.
+Update of invarient chart is avoided.
+027
+Beta 2 release 2008/03/04
+Can now save and restore display preferences, position and time.
+Menu bars are now like in other Activities.
+Latitude and Longitude can be specified in float degrees as well as dms.
+Program icon no longer a place-holder.
+011
+Initial (beta 1) release.  2008/02/20
